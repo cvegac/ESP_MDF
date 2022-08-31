@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\mconfig_test"
+		},
+		{
+			"path": "..\\mqtt"
+		},
+		{
+			"path": "..\\get_started"
+		}
+	],
+	"settings": {}
+}
